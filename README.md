@@ -21,15 +21,15 @@
   ```
 
 ## sample example
-  Produced product id: 0
-  Waiting products to be consumed
-  Produced product id: 1
-  Waiting products to be consumed
-  Consumed product id: 0
-  Produced product id: 0
-  Waiting products to be consumed
-  Waiting products to be consumed
-  Consumed product id: 1
+  >Produced product id: 0
+  >Waiting products to be consumed
+  >Produced product id: 1
+  >Waiting products to be consumed
+  >Consumed product id: 0
+  >Produced product id: 0
+  >Waiting products to be consumed
+  >Waiting products to be consumed
+  >Consumed product id: 1
   Consumed product id: 0
   Produced product id: 1
   Produced product id: 0
