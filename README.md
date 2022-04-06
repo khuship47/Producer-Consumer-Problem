@@ -14,11 +14,11 @@
 
 ## How to run?
 * use this command in order to run the program in linux terminal
-   ```
-   gcc -Wall -o producer producer.c
-    gcc -Wall -o consumer consumer.c
-    ./producer & ./consumer &  
-    ```
+  ```
+  gcc -Wall -o producer producer.c
+  gcc -Wall -o consumer consumer.c
+  ./producer & ./consumer &  
+  ```
 
 ## sample example
   Produced product id: 0
