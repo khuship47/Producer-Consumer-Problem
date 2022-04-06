@@ -10,6 +10,7 @@
 * When there are no items in the buffer, the consumer will wait.
 
 ## Solution
+* The buffer is in the shared memory
 * We use in and out integer variable in the shared memory to keep track of item produced and consumed.
 
 ## How to run?
