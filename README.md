@@ -21,7 +21,7 @@
   ```
 
 ## sample example
-  >Produced product id: 0
+  >Produced product id: 0 <br />
   >Waiting products to be consumed
   >Produced product id: 1
   >Waiting products to be consumed
