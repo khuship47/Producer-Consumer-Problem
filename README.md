@@ -21,20 +21,19 @@
   ```
 
 ## sample example
-  >Produced product id: 0 <br />
-  >Waiting products to be consumed
-  >Produced product id: 1
-  >Waiting products to be consumed
-  >Consumed product id: 0
-  >Produced product id: 0
-  >Waiting products to be consumed
-  >Waiting products to be consumed
-  >Consumed product id: 1
-  Consumed product id: 0
-  Produced product id: 1
-  Produced product id: 0
-  Waiting products to be consumed
-  Consumed product id: 1
+  Produced product id: 0 <br />
+  Waiting products to be consumed <br />
+  Produced product id: 1 <br />
+  Waiting products to be consumed <br />
+  Consumed product id: 0 <br />
+  Produced product id: 0 <br />
+  Waiting products to be consumed <br />
+  Waiting products to be consumed <br />
+  Consumed product id: 1 <br />
+  Consumed product id: 0 <br />
+  Produced product id: 1 <br />
+  Produced product id: 0 <br />
+  Waiting products to be consumed <br />
   .
   .
   .
